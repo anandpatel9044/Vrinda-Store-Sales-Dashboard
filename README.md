@@ -1,67 +1,58 @@
 # 📊 Vrinda Store Sales Dashboard
 
 ## 📌 Project Overview
-This project is an interactive Excel dashboard created to analyze annual sales performance of Vrinda Store.
+This project is an interactive Excel dashboard analyzing the annual sales performance of Vrinda Store.
 
 It provides insights into:
-- Sales trends over months
-- Gender-based purchasing behavior
-- Top-performing states
-- Sales channels performance
-- Order status distribution
+- Sales trends
+- Customer demographics
+- Order behavior
+- Channel performance
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](https://raw.githubusercontent.com/anandpatel9044/Vrinda-Store-Sales-Dashboard/main/Screenshot%202026-03-30%20213733.png)
+
+---
+
+## 📥 Download Dataset
+👉 [Click here to download Excel file](https://raw.githubusercontent.com/anandpatel9044/Vrinda-Store-Sales-Dashboard/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 ---
 
 ## 📊 Key Insights
 
 - Women contribute **64%** of total sales
-- Majority orders are **Delivered (92%)**
-- Top performing state: **Maharashtra**
-- Highest sales channel: **Amazon (35%)**
+- Delivered orders: **92%**
+- Top state: **Maharashtra**
+- Top channel: **Amazon (35%)**
 - Peak sales month: **March**
 
 ---
 
-## 📁 Dataset & Tools
-
-- Tool Used: **Microsoft Excel**
-- Features:
-  - Pivot Tables
-  - Charts & Graphs
-  - Slicers for filtering
-  - Interactive dashboard design
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts & Visualization
+- Slicers
 
 ---
 
-## 📌 Dashboard Features
-
-- Orders vs Sales trend analysis
-- Sales distribution by gender
-- State-wise sales performance
-- Age & gender order insights
-- Channel-wise order contribution
-- Dynamic filtering using slicers
-
----
-
-## 🚀 How to Use
-
-1. Download the Excel file
-2. Open in Microsoft Excel
-3. Use slicers (Month, Channel, Category) to explore insights
+## 🚀 Features
+- Orders vs Sales analysis
+- Gender-based insights
+- Top states performance
+- Age vs Gender analysis
+- Channel-wise orders
+- Interactive filters
 
 ---
 
 ## 👨‍💻 Author
-
-**Anand Patel**  
+Anand Patel  
 Aspiring Data Analyst
 
 ---
 
-## ⭐ If you like this project, give it a star!
+⭐ If you found this useful, give it a star!
